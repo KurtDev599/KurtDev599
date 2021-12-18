@@ -3,6 +3,7 @@
 <p>
   I am a 23-year-old junior developer. <br>
  Junior developer who wants to be a full stack developer. 
+  <hr/>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -21,9 +22,9 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp <br>
-
-<p align="center">
-🙈 ME 🙉 <br>
+<hr/>
+<h3 align="center"><b>🙈 ME 🙉</b></h3>
+<p align="center"> <br>
 <a href="https://www.instagram.com/castle._.ugh/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/sw536880@naver.com-15C39A?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp<br>
 
