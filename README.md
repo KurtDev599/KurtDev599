@@ -2,7 +2,7 @@
 
 <p>
   I am a 23-year-old junior developer. <br>
- Junior developer who wants to be a full stack developer. 
+  I'm a front-end developer who's interested in back-ends and wants to be a back-end developer someday
   <hr/>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
