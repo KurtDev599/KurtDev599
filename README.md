@@ -1,8 +1,7 @@
 ### 👋 Hello 👋
 
 <p>
-  I am a 24-year-old developer. <br>
-  I'm a front-end developer who's interested in back-ends and wants to be a back-end developer someday👻
+  I am a 24-year-old Node.js developer. <br>
   <hr/>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
