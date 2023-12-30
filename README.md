@@ -23,9 +23,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <hr/>
 <h3 align="center"><b>🙈 ME 🙉</b></h3>
-![KurtDev599's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurtDev599&show_icons=true&theme=dark)
+<div style="display: flex;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KurtDev599&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight" />
+</div>
 <p align="center"> <br>
-<a href="https://www.instagram.com/castle._.ugh/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&count_private=true"/></a> &nbsp
+<a href="https://www.instagram.com/castle._.ugh/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/sw536880@kakao.com-15C39A?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp<br>
 
 
