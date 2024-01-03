@@ -25,7 +25,7 @@
 <h3 align="center"><b>🙈 ME 🙉</b></h3>
 <div style="display: flex;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KurtDev599&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtDev599&layout=compact&theme=tokyonight" />
 </div>
 <p align="center"> <br>
 <a href="https://www.instagram.com/castle._.ugh/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
