@@ -1,7 +1,7 @@
 ### 👋 Hello 👋
 
 <p>
-  I am a 26-year-old Node.js developer. <br>
+  I am a 27-year-old Node.js developer. <br>
   <hr/>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
